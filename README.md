@@ -19,3 +19,5 @@
  - Create a project with create-react-app
  - And configure tailwind for styling
  - Header
+ - Routing
+ - Sign in/sign up
