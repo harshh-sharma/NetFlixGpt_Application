@@ -14,3 +14,7 @@
 - NetFlix Gpt
  - Search Bar
  - Movie suggestion
+
+# Steps of configure our poject
+ - Create a project with create-react-app
+ - And configure tailwind for styling
