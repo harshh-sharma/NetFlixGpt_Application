@@ -21,3 +21,7 @@
  - Header
  - Routing
  - Sign in/sign up
+ - Form validation
+ - useRef() hook
+ - Firebase setup
+ - Deploying to production
