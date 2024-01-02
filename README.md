@@ -25,3 +25,12 @@
  - useRef() hook
  - Firebase setup
  - Deploying to production
+ - Register TMDB Api & create an app & get access token
+ - Get data from TMDB now playing movie list
+ - Planning of how the browse page looks like
+ - Then make a components
+ - Then make new slice movie slice 
+ - Then Fetch the trailer data
+ - Update it to the store
+ - make customHooks 
+ - Give styling to components using tailwind css
