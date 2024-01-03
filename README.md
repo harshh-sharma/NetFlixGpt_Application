@@ -34,3 +34,8 @@
  - Update it to the store
  - make customHooks 
  - Give styling to components using tailwind css
+ - Some api calls for differemt movies and make a custorm hook for each api call
+ - create a search page
+    - In search we multi language supported
+    - some featues buttons also there
+

@@ -8,8 +8,8 @@ const VedioBackground = ({movieId}) => {
     const trailerData = useSelector(store => store.movies?.trailerData);
     useTrailer(movieId);
   return (
-    <div className='w-full aspect-video'>
-        <iframe  src={`https://www.youtube.com/embed/${trailerData?.key}?&autoplay=1&mute=1`} title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" className='w-full aspect-video'></iframe>
+    <div className='w-full aspect-video -z-10'>
+        <iframe  src={`https://www.youtube.com/embed/${trailerData?.key}?&autoplay=1&mute=1`} title="YouTube video player"  allow="accelerometer; autoplay;" className='w-full aspect-video'></iframe>
     </div>
   )
 }
